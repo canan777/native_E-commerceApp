@@ -7,4 +7,4 @@
 - react-native-uuid
 - @react-native-async-storage/async-storage
 
-![](./src/database/images/native_E-commerceApp.gif)
+![](./src/database/images/accessories/native_E-commerceApp.gif)
