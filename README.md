@@ -18,7 +18,7 @@
 
 📍 This project aims to provide a seamless shopping experience by combining the functionalities and technologies required by modern e-commerce applications.
 
-### Libraries
+###📚 Libraries:
 
 - @react-navigation/native
 - react-native-screens react-native-safe-area-context
